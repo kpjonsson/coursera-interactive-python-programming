@@ -120,3 +120,4 @@ frame.add_button('Reset', reset, 100)
 # start frame
 new_game()
 frame.start()
+
